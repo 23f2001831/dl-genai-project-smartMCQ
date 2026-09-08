@@ -269,4 +269,4 @@ if st.button("🔍 Predict Answer", type="primary", use_container_width=True):
                 )
 
 st.divider()
-st.caption("Built with PyTorch + Streamlit · IIT Madras MLP Assignment")
+st.caption("Built with PyTorch + Streamlit · DLP GenAI Project")
